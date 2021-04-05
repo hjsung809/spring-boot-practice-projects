@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.hojun.hojun_spring_boot_starter.BoardAutoConfiguration

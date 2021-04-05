@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "board.jdbc",
+      "type": "com.hojun.hojun_spring_boot_starter.JDBCConnectionManagerProperties",
+      "sourceType": "com.hojun.hojun_spring_boot_starter.JDBCConnectionManagerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "board.jdbc.driver-class",
+      "type": "java.lang.String",
+      "sourceType": "com.hojun.hojun_spring_boot_starter.JDBCConnectionManagerProperties"
+    },
+    {
+      "name": "board.jdbc.password",
+      "type": "java.lang.String",
+      "sourceType": "com.hojun.hojun_spring_boot_starter.JDBCConnectionManagerProperties"
+    },
+    {
+      "name": "board.jdbc.url",
+      "type": "java.lang.String",
+      "sourceType": "com.hojun.hojun_spring_boot_starter.JDBCConnectionManagerProperties"
+    },
+    {
+      "name": "board.jdbc.username",
+      "type": "java.lang.String",
+      "sourceType": "com.hojun.hojun_spring_boot_starter.JDBCConnectionManagerProperties"
+    }
+  ],
+  "hints": []
+}
